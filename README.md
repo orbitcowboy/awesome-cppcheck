@@ -1,5 +1,5 @@
 # Awesome Cppcheck [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of awesome Cppcheck articles, extensions and additional information.
+A curated list of awesome [Cppcheck](https://github.com/danmar/cppcheck) articles, extensions and additional information.
 
 - Mentioned in the news
   - German language
@@ -11,3 +11,9 @@ A curated list of awesome Cppcheck articles, extensions and additional informati
 - Extensions and addons
   - PCRE rules
     - https://github.com/pfultz2/cppcheck-rules
+    
+- Test Cppcheck 
+  - Fuzzer
+    - https://github.com/pfultz2/cppcheck-fuzzer
+    - https://github.com/orbitcowboy/afl_cppcheck
+    
