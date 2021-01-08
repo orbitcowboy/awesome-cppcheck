@@ -16,7 +16,9 @@ A curated list of awesome [Cppcheck](https://github.com/danmar/cppcheck) article
 - Extensions and addons
   - [PCRE rules](https://github.com/pfultz2/cppcheck-rules)
   - [Docker Container](https://github.com/uilianries/docker-cppcheck)
-    
+  - XML output
+     - [Convert to JUnit](https://github.com/johnthagen/cppcheck-junit)
+
 - Bugs found with Cppcheck
   - [mmapfail issues](https://github.com/hannob/mmapfail)
     
