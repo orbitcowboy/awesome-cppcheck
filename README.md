@@ -24,6 +24,6 @@ A curated list of awesome [Cppcheck](https://github.com/danmar/cppcheck) article
     
 - Test Cppcheck 
   - Fuzzer
-    - https://github.com/pfultz2/cppcheck-fuzzer
-    - https://github.com/orbitcowboy/afl_cppcheck
+    - [cppcheck-fuzzer](https://github.com/pfultz2/cppcheck-fuzzer)
+    - [afl_cppcheck](https://github.com/orbitcowboy/afl_cppcheck)
     
