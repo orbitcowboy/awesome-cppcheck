@@ -22,6 +22,7 @@ A curated list of awesome [Cppcheck](https://github.com/danmar/cppcheck) article
   - Output formatting
      - [Convert XML to JUnit](https://github.com/johnthagen/cppcheck-junit)
      - [Merge Cppcheck report files](https://github.com/mmicu/merge-cppcheck-reports)
+     - [Cppcheck Style Sheet](https://github.com/maxdule/cppcheck_xsl)
   - Library configuration files
      - [cppcheck-configs freetype, zlib, libtiff, llvm-c, etc.](https://github.com/lioncash/cppcheck-configs)
      
