@@ -16,6 +16,9 @@ A curated list of awesome [Cppcheck](https://github.com/danmar/cppcheck) article
   - PCRE rules
     - https://github.com/pfultz2/cppcheck-rules
     
+- Bugs found with Cppcheck
+  - [mmapfail issues] (https://github.com/hannob/mmapfail)
+    
 - Test Cppcheck 
   - Fuzzer
     - https://github.com/pfultz2/cppcheck-fuzzer
