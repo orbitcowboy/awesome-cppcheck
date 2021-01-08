@@ -15,7 +15,9 @@ A curated list of awesome [Cppcheck](https://github.com/danmar/cppcheck) article
     - https://www.heise.de/hintergrund/Pruefstand-fuer-Testwerkzeuge-Codeanalyse-im-Praxiseinsatz-4679430.html?seite=all
 - Extensions and addons
   - [Github-Action](https://github.com/deep5050/cppcheck-action)
-  - [PCRE rules](https://github.com/pfultz2/cppcheck-rules)
+  - PCRE
+    - [cppcheck-rules](https://github.com/pfultz2/cppcheck-rules)
+    - [cppcheck-ibs](https://github.com/scriptum/cppcheck-libs)
   - [Docker Container](https://github.com/uilianries/docker-cppcheck)
   - XML output
      - [Convert to JUnit](https://github.com/johnthagen/cppcheck-junit)
