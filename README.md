@@ -19,8 +19,9 @@ A curated list of awesome [Cppcheck](https://github.com/danmar/cppcheck) article
     - [cppcheck-rules](https://github.com/pfultz2/cppcheck-rules)
     - [cppcheck-ibs](https://github.com/scriptum/cppcheck-libs)
   - [Docker Container](https://github.com/uilianries/docker-cppcheck)
-  - XML output
-     - [Convert to JUnit](https://github.com/johnthagen/cppcheck-junit)
+  - Output formatting
+     - [Convert XML to JUnit](https://github.com/johnthagen/cppcheck-junit)
+     - [Merge Cppcheck report files](https://github.com/mmicu/merge-cppcheck-reports)
   - Library configuration files
      - [cppcheck-configs freetype, zlib, libtiff, llvm-c, etc.](https://github.com/lioncash/cppcheck-configs)
      
