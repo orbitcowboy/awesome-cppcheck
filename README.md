@@ -6,6 +6,7 @@ A curated list of awesome [Cppcheck](https://github.com/danmar/cppcheck) article
   - [Official Manual (PDF)](http://cppcheck.sourceforge.net/manual.pdf)
 
 - Cppcheck in the news
+  - [Warnings on Steroids](https://hackaday.com/2018/12/12/warnings-on-steroids-static-code-analysis-tools/)
   - German language
     - https://www.heise.de/news/Developer-Snapshots-Programmierer-News-in-ein-zwei-Saetzen-4725039.html
     - https://www.golem.de/news/mmap-codeanalyse-mit-sechs-zeilen-bash-2006-148878.html
