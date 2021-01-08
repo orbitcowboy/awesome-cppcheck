@@ -17,7 +17,7 @@ A curated list of awesome [Cppcheck](https://github.com/danmar/cppcheck) article
     - https://github.com/pfultz2/cppcheck-rules
     
 - Bugs found with Cppcheck
-  - [mmapfail issues] (https://github.com/hannob/mmapfail)
+  - [mmapfail issues](https://github.com/hannob/mmapfail)
     
 - Test Cppcheck 
   - Fuzzer
