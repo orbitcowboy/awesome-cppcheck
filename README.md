@@ -18,6 +18,8 @@ A curated list of awesome [Cppcheck](https://github.com/danmar/cppcheck) article
   - [Docker Container](https://github.com/uilianries/docker-cppcheck)
   - XML output
      - [Convert to JUnit](https://github.com/johnthagen/cppcheck-junit)
+  - Library configuration files
+     - [cppcheck-configs freetype, zlib, libtiff, llvm-c, etc.](https://github.com/lioncash/cppcheck-configs)
 
 - Bugs found with Cppcheck
   - [mmapfail issues](https://github.com/hannob/mmapfail)
