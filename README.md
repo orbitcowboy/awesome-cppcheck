@@ -2,7 +2,8 @@
 A curated list of awesome [Cppcheck](https://github.com/danmar/cppcheck) articles, extensions and additional information.
 
 - Documentation
-  - [Official Documention](https://github.com/danmar/cppcheck-htdocs)
+  - [Official Documentation Repository](https://github.com/danmar/cppcheck-htdocs)
+  - [Official Manual (PDF)](http://cppcheck.sourceforge.net/manual.pdf)
 
 - Cppcheck in the news
   - German language
