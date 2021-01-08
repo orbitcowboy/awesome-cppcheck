@@ -3,3 +3,4 @@ A curated list of awesome Cppcheck articles, extensions and additional informati
 
 - Mentioned in the news
   - https://www.heise.de/news/Developer-Snapshots-Programmierer-News-in-ein-zwei-Saetzen-4725039.html
+  - https://www.golem.de/news/mmap-codeanalyse-mit-sechs-zeilen-bash-2006-148878.html
