@@ -1,0 +1,2 @@
+# awesome-cppcheck
+Awesome Cppcheck
