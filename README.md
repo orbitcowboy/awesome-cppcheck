@@ -17,7 +17,7 @@ A curated list of awesome [Cppcheck](https://github.com/danmar/cppcheck) article
   - [Github-Action](https://github.com/deep5050/cppcheck-action)
   - PCRE
     - [cppcheck-rules](https://github.com/pfultz2/cppcheck-rules)
-    - [cppcheck-ibs](https://github.com/scriptum/cppcheck-libs)
+    - [cppcheck-libs](https://github.com/scriptum/cppcheck-libs)
   - [Docker Container](https://github.com/uilianries/docker-cppcheck)
   - Output formatting
      - [Convert XML to JUnit](https://github.com/johnthagen/cppcheck-junit)
@@ -31,7 +31,7 @@ A curated list of awesome [Cppcheck](https://github.com/danmar/cppcheck) article
 - Bugs found with Cppcheck
   - [mmapfail issues](https://github.com/hannob/mmapfail)
     
-- Test Cppcheck 
+- Test Cppcheck
   - Fuzzer
     - [cppcheck-fuzzer](https://github.com/pfultz2/cppcheck-fuzzer)
     - [afl_cppcheck](https://github.com/orbitcowboy/afl_cppcheck)
