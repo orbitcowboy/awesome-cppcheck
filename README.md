@@ -26,6 +26,8 @@ A curated list of awesome [Cppcheck](https://github.com/danmar/cppcheck) article
      - [Convert Cpplint results into Cppcheck XML format](https://github.com/GDP-ADMIN/cpplint-to-cppcheck)
   - Library configuration files
      - [cppcheck-configs freetype, zlib, libtiff, llvm-c, etc.](https://github.com/lioncash/cppcheck-configs)
+  - Code metrics 
+    - [Cppcheck-HIS-addon](https://github.com/matzeschmid/Cppcheck-HIS-addon)
      
 
 - Bugs found with Cppcheck
